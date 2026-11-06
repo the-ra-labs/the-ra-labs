@@ -17,10 +17,10 @@
   <a href="https://github.com/the-ra-labs">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_FIVERR_PROFILE_URL">
+  <a href="https://www.fiverr.com/ra_labs">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
-  <a href="YOUR_UPWORK_PROFILE_URL">
+  <a href="https://www.upwork.com/freelancers/~019dbf5d4f45bce5d9?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
@@ -101,48 +101,6 @@ Building Flutter interfaces for multiple platforms.
 - Reusable Components
 - Pixel-Perfect UI Implementation
 
-### Currently Learning
-
-- REST API Integration
-- Firebase
-- Advanced State Management
-- Clean Architecture
-- AI API Integration
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 💎 Featured Projects
-
-### 🏡 Real Estate App
-
-A modern Flutter real estate application featuring property browsing, property categories, staff profiles and an elegant user interface.
-
-**Technologies:** Flutter | Dart
-
-[View Repository](YOUR_REAL_ESTATE_REPOSITORY_URL)
-
----
-
-### 🖼️ RA Gallery
-
-A modern gallery application focused on organizing photos, videos and other media with private vault functionality.
-
-**Technologies:** Flutter | Dart
-
-[View Repository](YOUR_RA_GALLERY_REPOSITORY_URL)
-
----
-
-### 🎥 RA Screen Recorder
-
-A Flutter-based screen recorder application with a custom interface and Android screen recording integration.
-
-**Technologies:** Flutter | Dart | Android
-
-[View Repository](YOUR_SCREEN_RECORDER_REPOSITORY_URL)
-
 ---
 
 <!-- ================= WHAT I OFFER ================= -->
@@ -189,11 +147,11 @@ I'm interested in collaborating on exciting projects and creating beautiful digi
 
 <p align="center">
 
-<a href="YOUR_FIVERR_PROFILE_URL">
+<a href="https://www.fiverr.com/ra_labs">
   <img src="https://img.shields.io/badge/Hire_Me_on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
-<a href="YOUR_UPWORK_PROFILE_URL">
+<a href="https://www.upwork.com/freelancers/~019dbf5d4f45bce5d9?mp_source=share">
   <img src="https://img.shields.io/badge/Hire_Me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
